@@ -1,0 +1,11 @@
+{
+    "name": "Gift Test 2",
+    "description": "A Gift Test",
+    "price": 56.87,
+    "duration": 7,
+    "tags": [
+        "Anniversary",
+        "Love",
+        "Friendship"
+    ]
+}

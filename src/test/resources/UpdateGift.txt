@@ -1,0 +1,13 @@
+{
+    "name": "Gift Test Updated 2",
+    "description": "A Gift Test Updated",
+    "price": 0,
+    "duration": 0,
+    "tags": [
+        "Anniversary",
+        "Love",
+        "Friendship",
+        "New Tag",
+        "New Tag 2"
+    ]
+}
